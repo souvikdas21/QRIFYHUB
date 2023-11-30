@@ -4,7 +4,7 @@
 
 ## Overview
 
-QRifyHub is a powerful Python-based web application developed using Streamlit for generating and decoding QR codes. This application aims to provide users with an intuitive interface for creating customized QR codes and decoding existing QR codes from uploaded images.
+QRifyHub is a powerful Python-based web application developed using Streamlit for generating and decoding QR codes. This application aims to provide users with an intuitive interface for creating QR codes and decoding existing QR codes from uploaded images.
 
 Explore the live web app: [QRifyHub Live](https://qurifyhub.onrender.com)
 
